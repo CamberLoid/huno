@@ -1,11 +1,11 @@
 # Header
 menu:
-  首页: /#blog
-  关于: /about
-  归档: /archive
+  Blog: /#blog
+  About: /about
+  Archive: /archive
 
 # Site favicon
-favicon: /favicon.png
+favicon: images/favicon.jpg
 
 # Site logo
 # logo: /avatar.png
